@@ -1,7 +1,6 @@
-# .NET Conf 2025 Agenda
-Welcome to the official agenda for .NET Conf 2025! This multi-day event showcases the latest innovations in .NET 10, C# 14, Visual Studio 2026, and AI-powered development. Below is a structured breakdown of all sessions, grouped by day and time.
+# .NET Conf 2025 Agenda (Times in UTC)
 
-**Note: All the times are in UTC**
+Welcome to the official agenda for .NET Conf 2025! This multi-day event showcases the latest innovations in .NET 10, C# 14, Visual Studio 2026, and AI-powered development. Below is a structured breakdown of all sessions, grouped by day and time.
 
 ---
 
